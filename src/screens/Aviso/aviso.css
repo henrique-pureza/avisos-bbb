@@ -1,0 +1,16 @@
+.fundo {
+    background-color: #000;
+    padding: 1rem;
+}
+
+.nome {
+    font-size: 15vh;
+    text-align: center;
+}
+
+.aviso {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12vh;
+    text-align: center;
+    text-shadow: 1px 1px 4px #000;
+}
