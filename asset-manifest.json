@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avisos-bbb/static/css/main.15b03931.css",
+    "main.js": "/avisos-bbb/static/js/main.589cce8c.js",
+    "static/media/bbbLogo.png": "/avisos-bbb/static/media/bbbLogo.42a2d51aee94450c1a39.png",
+    "static/media/campainhaCurta.mp3": "/avisos-bbb/static/media/campainhaCurta.f5461214f1e35decef48.mp3",
+    "static/media/reactLogo.svg": "/avisos-bbb/static/media/reactLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/avisos-bbb/index.html",
+    "main.15b03931.css.map": "/avisos-bbb/static/css/main.15b03931.css.map",
+    "main.589cce8c.js.map": "/avisos-bbb/static/js/main.589cce8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b03931.css",
+    "static/js/main.589cce8c.js"
+  ]
+}
